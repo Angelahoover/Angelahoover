@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a startup founder working on LazyWeb. I like working with customers to make something they want, and partners in ecommerce and cloud computing to get it out to the world.
+
+I'm learning Python and data analytics, and interested in privacy and AI.
+
+![](https://komarev.com/ghpvc/?username=Angelahoover)
+
 <!--
 **Angelahoover/Angelahoover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
